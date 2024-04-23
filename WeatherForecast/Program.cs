@@ -29,6 +29,7 @@ class Program
 
                     // Siuntimo užklausa į API, kad gauti orų prognozę
                     HttpResponseMessage response = await httpClient.GetAsync(apiUrl);
+                    // Įsitikina kad HTTP atsakymas rodo sėkmę prieš tęsiant
                     response.EnsureSuccessStatusCode();
 
                     // Gaunamo atsakymo turinio nuskaitymas
