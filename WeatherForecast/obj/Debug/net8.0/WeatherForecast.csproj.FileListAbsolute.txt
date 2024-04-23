@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\WeatherForecast\WeatherForecast\bin\Debug\net8.0\WeatherForecast.exe
+C:\Users\danie\source\repos\WeatherForecast\WeatherForecast\bin\Debug\net8.0\WeatherForecast.deps.json
+C:\Users\danie\source\repos\WeatherForecast\WeatherForecast\bin\Debug\net8.0\WeatherForecast.runtimeconfig.json
+C:\Users\danie\source\repos\WeatherForecast\WeatherForecast\bin\Debug\net8.0\WeatherForecast.dll
+C:\Users\danie\source\repos\WeatherForecast\WeatherForecast\bin\Debug\net8.0\WeatherForecast.pdb
+C:\Users\danie\source\repos\WeatherForecast\WeatherForecast\obj\Debug\net8.0\WeatherForecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\WeatherForecast\WeatherForecast\obj\Debug\net8.0\WeatherForecast.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\WeatherForecast\WeatherForecast\obj\Debug\net8.0\WeatherForecast.AssemblyInfo.cs
+C:\Users\danie\source\repos\WeatherForecast\WeatherForecast\obj\Debug\net8.0\WeatherForecast.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\WeatherForecast\WeatherForecast\obj\Debug\net8.0\WeatherForecast.dll
+C:\Users\danie\source\repos\WeatherForecast\WeatherForecast\obj\Debug\net8.0\refint\WeatherForecast.dll
+C:\Users\danie\source\repos\WeatherForecast\WeatherForecast\obj\Debug\net8.0\WeatherForecast.pdb
+C:\Users\danie\source\repos\WeatherForecast\WeatherForecast\obj\Debug\net8.0\WeatherForecast.genruntimeconfig.cache
+C:\Users\danie\source\repos\WeatherForecast\WeatherForecast\obj\Debug\net8.0\ref\WeatherForecast.dll

@@ -1,0 +1,17 @@
+{
+  "Vilnius": {
+    "temperature": 15.5,
+    "precipitation": "None",
+    "windSpeed": 4
+  },
+  "Kaunas": {
+    "temperature": 16,
+    "precipitation": "None",
+    "windSpeed": 4
+  },
+  "Klaipėda": {
+    "temperature": 15.5,
+    "precipitation": "None",
+    "windSpeed": 4
+  }
+}
